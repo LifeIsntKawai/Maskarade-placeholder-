@@ -4,7 +4,7 @@
     {"name":"Entities","order":4,"path":"folders/Entities.yy",},
     {"name":"Enemy","order":2,"path":"folders/Entities/Enemy.yy",},
     {"name":"Player","order":1,"path":"folders/Entities/Player.yy",},
-    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"group1","order":7,"path":"folders/group1.yy",},
     {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
     {"name":"Combat Related","order":2,"path":"folders/Rooms/Combat Related.yy",},
     {"name":"Main Menu","order":4,"path":"folders/Rooms/Main Menu.yy",},
@@ -12,5 +12,7 @@
     {"name":"Shop Related","order":3,"path":"folders/Rooms/Shop Related.yy",},
     {"name":"Sprite","order":3,"path":"folders/Sprite.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
 }

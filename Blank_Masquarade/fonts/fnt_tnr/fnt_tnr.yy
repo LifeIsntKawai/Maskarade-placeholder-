@@ -258,8 +258,8 @@
   "maintainGms1Font":false,
   "name":"fnt_tnr",
   "parent":{
-    "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "name":"group1",
+    "path":"folders/group1.yy",
   },
   "pointRounding":0,
   "ranges":[
