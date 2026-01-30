@@ -258,8 +258,8 @@
   "maintainGms1Font":false,
   "name":"fnt_tnr",
   "parent":{
-    "name":"Blank_Masquarade",
-    "path":"Blank_Masquarade.yyp",
+    "name":"group1",
+    "path":"folders/group1.yy",
   },
   "pointRounding":0,
   "ranges":[
