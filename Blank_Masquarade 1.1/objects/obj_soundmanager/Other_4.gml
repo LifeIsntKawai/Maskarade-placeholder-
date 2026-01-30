@@ -1,0 +1,1 @@
+audio_play_sound(maintheme, 0, true);

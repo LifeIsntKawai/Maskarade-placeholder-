@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"Sounds","order":6,"path":"folders/Sounds.yy",},
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Mainmenu Related","order":1,"path":"folders/Objects/Mainmenu Related.yy",},
+    {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+    {"name":"Combat Related","order":2,"path":"folders/Rooms/Combat Related.yy",},
+    {"name":"Main Menu","order":4,"path":"folders/Rooms/Main Menu.yy",},
+    {"name":"Menu Related","order":1,"path":"folders/Rooms/Menu Related.yy",},
+    {"name":"Shop Related","order":3,"path":"folders/Rooms/Shop Related.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+    {"name":"Main Menu related","order":1,"path":"folders/Sprites/Main Menu related.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"title_font","order":1,"path":"fonts/title_font/title_font.yy",},
+    {"name":"help_button","order":3,"path":"objects/help_button/help_button.yy",},
+    {"name":"obj_soundmanager","order":5,"path":"objects/obj_soundmanager/obj_soundmanager.yy",},
+    {"name":"play_button","order":1,"path":"objects/play_button/play_button.yy",},
+    {"name":"quit_button","order":2,"path":"objects/quit_button/quit_button.yy",},
+    {"name":"Title","order":4,"path":"objects/Title/Title.yy",},
+    {"name":"mainmenuBackground","order":1,"path":"sprites/mainmenuBackground/mainmenuBackground.yy",},
+  ],
+}
