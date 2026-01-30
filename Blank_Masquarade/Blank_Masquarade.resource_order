@@ -1,8 +1,10 @@
 {
   "FolderOrderSettings":[
+    {"name":"Background","order":5,"path":"folders/Background.yy",},
     {"name":"Entities","order":4,"path":"folders/Entities.yy",},
     {"name":"Enemy","order":2,"path":"folders/Entities/Enemy.yy",},
     {"name":"Player","order":1,"path":"folders/Entities/Player.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
     {"name":"Combat Related","order":2,"path":"folders/Rooms/Combat Related.yy",},
     {"name":"Main Menu","order":4,"path":"folders/Rooms/Main Menu.yy",},
