@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+    {"name":"Combat Related","order":2,"path":"folders/Rooms/Combat Related.yy",},
+    {"name":"Main Menu","order":4,"path":"folders/Rooms/Main Menu.yy",},
+    {"name":"Menu Related","order":1,"path":"folders/Rooms/Menu Related.yy",},
+    {"name":"Shop Related","order":3,"path":"folders/Rooms/Shop Related.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
